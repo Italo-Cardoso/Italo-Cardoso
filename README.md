@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Italo Moreira 👋
 
-<!--
-**Italo-Cardoso/Italo-Cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full-Stack & Mobile Engineer specialized in building robust architectures and scalable products using TypeScript and the JavaScript ecosystem. I am passionate about end-to-end product development, from database modeling to clean user interfaces.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** Node.js, Express.js, RESTful APIs, Prisma
+- **Frontend:** React, Next.js, Tailwind CSS, HTML5/CSS3
+- **Mobile:** React Native, TypeScript, Mapbox API
+- **Databases:** MongoDB, PostgreSQL
+- **DevOps & Tools:** Git, GitHub, Docker, Vercel, Render
+
+## 🚀 Featured Project: CredNote (SaaS)
+I am the Co-Founder and Lead Engineer at **CredNote**, a B2B SaaS platform built with the MERN stack that automates financial collections via WhatsApp and Pix, helping merchants reduce delinquency in real-time.
+
+---
